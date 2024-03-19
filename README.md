@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Bart Otten, software developer by day and scode writer by
+My name is Bart Otten, software developer by day and code writer by
 night. The projects at my GitHub range from production ready packages
 to proof of concepts.
 
